@@ -5,8 +5,8 @@ The web dashboard for TTGProtect; **not ready yet**
 You need to add the `web` folder to the TTGProtect's folder to make everything work:
 
 TTGProtect
- |_Commands
- |_util
- |_events
- |_web
-  |_**files**
+<br> |_Commands
+<br> |_util
+<br> |_events
+<br> |_web
+<br>  |_**files**
